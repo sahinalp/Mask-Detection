@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>497.jpg</filename>
+	<path>C:\Users\pc\Desktop\YL1_dersler\yapay_zeka\AI_Project\Tensorflow\workspace\images\train\497.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>280</width>
+		<height>461</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>unmasked</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>16</xmin>
+			<ymin>45</ymin>
+			<xmax>264</xmax>
+			<ymax>362</ymax>
+		</bndbox>
+	</object>
+</annotation>
